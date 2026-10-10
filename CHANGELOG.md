@@ -2,6 +2,11 @@
 
 Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
+## [0.1.1] - 2026-10-10
+
+### Corregido
+- Llamada restante a `PlayerbotAIConfig::instance().maxAddedBots`, ahora `PlayerbotAIConfig::Instance().MaxAddedBots`.
+
 ## [0.1.0] - 2026-10-10
 
 ### Corregido
